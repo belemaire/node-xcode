@@ -1,6 +1,6 @@
 {
   "author": "Andrew Lunny <alunny@gmail.com>",
-  "name": "xcode",
+  "name": "@walmart/xcode",
   "description": "parser for xcodeproj/project.pbxproj files",
   "version": "0.9.1",
   "main": "index.js",
@@ -20,6 +20,6 @@
   },
   "scripts": {
     "test": "node_modules/.bin/nodeunit test/parser test"
-  }, 
+  },
   "license": "Apache-2.0"
 }
