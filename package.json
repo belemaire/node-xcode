@@ -1,6 +1,6 @@
 {
   "author": "Andrew Lunny <alunny@gmail.com>",
-  "name": "@walmart/ern-xcode",
+  "name": "@walmart/xcode-ern",
   "description": "parser for xcodeproj/project.pbxproj files",
   "version": "1.0.0",
   "main": "index.js",
