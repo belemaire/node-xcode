@@ -2,7 +2,7 @@
   "author": "Andrew Lunny <alunny@gmail.com>",
   "name": "@walmart/xcode-ern",
   "description": "parser for xcodeproj/project.pbxproj files",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": {
     "url": "https://github.com/alunny/node-xcode.git"
